@@ -1,7 +1,6 @@
 import img1 from '/assets/imgs/blogProfile1_2.webp'
 import img2 from '/assets/imgs/blogProfile1_1.webp'
 import img3 from '/assets/imgs/blogProfile1_3.webp'
-
 import blog1 from '/assets/imgs/blogThumb1_2.webp'
 import blog2 from '/assets/imgs/blogThumb1_3.webp'
 import blog3 from '/assets/imgs/blogThumb1_1.webp'
